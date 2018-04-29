@@ -1,0 +1,76 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,400);
+
+body {
+    font:normal 100% "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+    background-color: rgb(230, 233, 233);
+    color: rgb(85, 85, 85);
+    text-align: center;
+    width: 950px;
+    padding:0ex 0ex 0ex 0ex ;
+    margin: 0ex auto ;
+}
+
+.caption { margin: 5px; text-align: right; font-style: italic; font-size:xx-small; float: right; }
+
+.container{
+    margin-top : 1em;
+    margin-bottom : 1em;
+    margin-left : 4em;
+    margin-right : 4em;
+    padding : 0ex;
+}
+
+
+TD{font-size: 100%}
+
+.content{
+    xxxbackground-color: rgb(255,253,231);
+    ybackground-color: rgb(253,253,247);
+    background-color: rgb(255,255,255);
+    max-width : 100%;
+    min-width : 80ex;
+    
+    padding : 2ex;
+    border-width : 0px;
+    border-color : rgb(140,140,140);
+    border-style : solid;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+ul {
+    margin-top: 0ex;
+    margin-left: 2ex;
+    margin-right: 2ex;   
+    padding-left: 0ex;
+    list-style-type: square;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 300;
+}
+
+a.email {
+    text-decoration: none;
+}
+
+a.imageanchor:link {
+    color: rgb(0, 0, 0);
+}
+a:link {
+    text-decoration: none;
+    color: rgb(0, 51, 160); 
+}
+a:visited {
+    text-decoration: none;
+    color: rgb(0, 51, 160); 
+}
+a:hover {
+    text-decoration: none;
+    color: rgb(154, 0, 0);
+}
+
+
