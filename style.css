@@ -60,6 +60,10 @@ a.email {
 a.imageanchor:link {
     color: rgb(0, 0, 0);
 }
+a.headline:link {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
 a:link {
     text-decoration: none;
     color: rgb(0, 51, 160); 
